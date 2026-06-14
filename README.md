@@ -1,2 +1,0 @@
-# keke-music-bot
-kekemusicbot 
